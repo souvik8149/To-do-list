@@ -16,7 +16,7 @@ A beginner-friendly Python command-line To‑Do List app.
 4. Run: 
 
 ```bash
-python todo_list.py
+python to_do_list.py
 ```
 
 ## About
